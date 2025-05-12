@@ -1,90 +1,81 @@
-# Hi, I'm Vedansh Vijay 👋
+# 👋 Hi, I'm Vedansh Vijayvargia
 
-**Software Engineer | Cloud & Backend Developer | Open Source Enthusiast**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vedanshvijay-blue?logo=linkedin)](https://linkedin.com/in/vedanshvijay)
-[![Website](https://img.shields.io/badge/Portfolio-vedanshvijay.in-brightgreen)](https://vedanshvijay.in)
-[![Gmail](https://img.shields.io/badge/Email-hello@vedanshvijay.in-red?logo=gmail)](mailto:hello@vedanshvijay.in)
+🎯 **Full Stack Web Developer** | 🐘 PHP | 🐍 Python (FastAPI) | 💙 Flutter | 🗃️ SQL | ☁️ Azure Enthusiast | 🛠️ DevOps Practitioner
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Software Engineer at Tekion Corp | CSE Graduate (SRMIST, KTR)
-- 💡 Passionate about building scalable cloud solutions & robust backend systems
-- 🌱 Currently learning: Kubernetes, DevOps, advanced cloud architectures
-- 🏆 Interested in: Distributed systems, microservices, open-source, and coding challenges
-- ⚽ Hobbies: Football, tech blogging, exploring new frameworks
+I'm a dedicated Full Stack Web Developer with a passion for building scalable web applications and intuitive user interfaces. My expertise spans both frontend and backend technologies, and I'm always eager to learn and implement new tools and frameworks.
+
+- 🔭 Currently exploring **Kubernetes** and **Advanced Cloud Architectures**.
+- 🌱 Actively contributing to open-source projects and engaging in coding communities.
+- 💬 Ask me about **PHP**, **Python (FastAPI)**, **Flutter**, **SQL**, and **Azure**.
+- 📫 Reach me at: [ved02vijay@gmail.com](mailto:ved02vijay@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Frontend         | Backend            | Cloud & DevOps         | Databases           | Tools & Others      |
-|------------------|--------------------|------------------------|---------------------|---------------------|
-| React, Next.js   | Node.js, Express   | AWS (EC2, Lambda), Docker | MongoDB, PostgreSQL | Git, GitHub, VS Code |
-| HTML5, CSS3      | Python, Flask      | Kubernetes, Terraform  | Redis               | Jira, Postman       |
-| Tailwind CSS     |                    |                        |                     |                     |
+**Frontend:**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+
+**Backend:**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+
+**Database:**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps:**
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 📂 Featured Projects
 
-### [Project Name 1](https://github.com/vedanshvijay/project1)
-**Description:** Scalable web application solving [specific problem].  
-**Tech:** React, Node.js, MongoDB, JWT  
-**Highlights:**  
-- Implemented Redis caching (40% faster responses)  
-- CI/CD with GitHub Actions  
-- ⭐ 15+ stars
+### [Office IP Messenger](https://github.com/vedanshvijay/officeipmessenger)
+An unofficial office chat application designed for local networks, facilitating seamless communication within teams.
 
----
+- **Tech Stack:** Python, Flask
+- **Features:** Real-time messaging, user authentication, and file sharing capabilities.
 
-### [Project Name 2](https://github.com/vedanshvijay/project2)
-**Description:** Microservice backend for real-time analytics.  
-**Tech:** Python, Flask, Docker, AWS Lambda  
-**Highlights:**  
-- Event-driven with AWS Lambda & SQS  
-- 99.9% uptime (health checks & monitoring)  
-- Open for contributions
+### [SmartNewsHub](https://github.com/vedanshvijay/SmartNewsHub)
+A modern news aggregation platform that curates the latest news from various sources worldwide.
 
----
+- **Tech Stack:** Python, Flask, Web Scraping
+- **Features:** Trending news highlights, category-wise segregation, and responsive design.
 
-### [Portfolio Website](https://vedanshvijay.in)
-**Description:** Personal portfolio with projects, blogs, and contact.  
-**Tech:** Next.js, Tailwind CSS, Vercel  
-**Highlights:**  
-- SEO optimized for recruiters  
-- Mobile-friendly, Lighthouse score > 90  
-- Regularly updated
+### [PHP CRUD Application](https://github.com/vedanshvijay/phpcrud)
+A simple PHP-based CRUD application demonstrating basic Create, Read, Update, and Delete operations.
+
+- **Tech Stack:** PHP, MySQL
+- **Features:** User-friendly interface, data validation, and secure database interactions.
+
+*For more projects, visit my [GitHub repositories](https://github.com/vedanshvijay?tab=repositories).*
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Vedansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedanshvijay&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshvijay&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshvijay&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
-- 📧 Email: [hello@vedanshvijay.in](mailto:hello@vedanshvijay.in)
-- 🌐 Website: [vedanshvijay.in](https://vedanshvijay.in)
-- 💼 LinkedIn: [linkedin.com/in/vedanshvijay](https://linkedin.com/in/vedanshvijay)
-- 🐦 Twitter: [@vedanshvijay](https://twitter.com/vedanshvijay)
+- [LinkedIn](https://www.linkedin.com/in/vedanshvijay/)
+- [Email](mailto:ved02vijay@gmail.com)
 
 ---
 
-## 💡 Why Collaborate With Me?
-
-- Experience building scalable, maintainable software
-- Strong problem-solving & algorithmic skills
-- Fast learner, always exploring new tech
-- Clear documentation & open-source mindset
-- Ready for challenging, impactful projects
-
----
-
-<!-- SEO Keywords: software engineer, cloud developer, backend developer, microservices, distributed systems, AWS, Node.js, Python, open source, Surat, Gujarat, India, Tekion Corp, SRMIST, scalable applications, recruiter, employer, 2025 -->
-
+*This README is optimized for SEO with relevant keywords and structured formatting to enhance visibility to recruiters and collaborators.*
