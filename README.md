@@ -93,7 +93,7 @@ Laravel-based office chat system for real-time communication and file transfer.
 ## 📫 Let’s Connect!
 
 - 🔗 [LinkedIn](https://linkedin.com/in/vedansh-vijayvargia-41a64421b)
-- 📧 [vedanshvijayvargia@gmail.com](mailto:vedanshvijayvargia@gmail.com)
+- 📧 [ved02vijay@gmail.com](mailto:ved02vijay@gmail.com)
 
 ---
 
