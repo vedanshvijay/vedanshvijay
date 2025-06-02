@@ -8,7 +8,7 @@
 <meta name="author" content="Vedansh Vijayvargia">
 <link rel="canonical" href="https://github.com/vedanshvijay" />
 
-# 👋 Hello! I'm Vedansh Vijay (Vedansh Vijayvargia)
+# 👋 Hello! I'm Vedansh Vijayvargia
 
 💻 **Backend Developer** | 🐍 Python • 🐘 PHP • 🧰 Laravel • ⚙️ Flask • 🛢 MySQL  
 🚀 Focused on performance, scalability, and secure API design  
